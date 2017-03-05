@@ -1,0 +1,22 @@
+{
+  "name": "foodlife",
+  "version": "1.0.0",
+  "main": "messenger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "crypto": "0.0.3",
+    "express": "^4.15.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^1.6.3",
+    "node-wit": "^4.2.0",
+    "q": "^1.4.1",
+    "request": "^2.80.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
